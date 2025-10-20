@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registro - Registro al 3er Simposio del "Dia MUndial de la Alimentación"</title>
+    <title>Registro - Registro al 3er Simposio del "Dia Mundial de la Alimentación"</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -447,7 +447,7 @@
         <!-- Encabezado -->
         <div class="header text-center">
             <div class="header-content">
-                <h1 class="display-5 fw-bold">PROGRAMA DE CONFERENCIAS Y TALLERES ALIMENTOS</h1>
+                <h1 class="display-5 fw-bold">3er Simposio Dia Mundial de la Alimentación</h1>
                 <p class="lead fs-4">Universidad Tecnológica de Tehuacán</p>
                 <p class="mb-0 fs-5">23 y 24 de Octubre</p>
                 <p class="mt-2 fs-6">"Mano de la mano por unos alimentos y un futuro mejores"</p>
@@ -610,10 +610,10 @@
                         <div class="constancia-name" id="nombreConstancia">[Nombre del Estudiante]</div>
                         
                         <div class="constancia-text">
-                            Por su destacada participación en el programa académico
+                            Por su destacada participación en el 3er Simposio
                         </div>
                         <div class="constancia-text">
-                            <span class="constancia-event">"Conferencias y Talleres Alimentos 2024"</span>
+                            <span class="constancia-event">"Dia Mundial de la Alimentación 2025"</span>
                         </div>
                         <div class="constancia-text">
                             realizado los días 23 y 24 de octubre del presente año
